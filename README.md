@@ -101,13 +101,13 @@ def train_model(model,train_loader,test_loader,loss_fn,optimixer,epochs=3):
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-
-![image](https://github.com/user-attachments/assets/21ceaf3c-4b4d-4ec0-99b0-541c0e04e10c)
+![image](https://github.com/user-attachments/assets/b7709c45-9f9e-4fd5-8f31-ca66fbace07f)
 
 
 ### Sample Text Prediction
 
-![image](https://github.com/user-attachments/assets/85f91132-6658-4a57-9cad-f767c31cad0e)
+![image](https://github.com/user-attachments/assets/658dcbff-0eac-4a47-a67a-5c3db17d74ee)
+
 
 
 ## RESULT
